@@ -32,3 +32,5 @@ const min = 10;
 const max = 20;
 
 console.log(Math.floor(Math.random() * (max - min + 1) + min));
+
+// https://stackoverflow.com/questions/62981108/how-does-math-floormath-random-max-min-1-min-work-in-javascript

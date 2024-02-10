@@ -33,4 +33,15 @@ function loginUserMessage(username = "sam"){
 }
 
 // console.log(loginUserMessage("Pramit"));
-console.log(loginUserMessage("Pramit"));
+// console.log(loginUserMessage("Pramit"));
+
+
+function calculateCartPrice(...num1){
+    return num1;
+}
+
+// console.log(calculateCartPrice(200, 400, 500, 2000));
+
+const user = {
+    username: "pramit"
+}
